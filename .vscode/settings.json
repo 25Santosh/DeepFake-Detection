@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./deepfakeApp/CViT-main",
+        "./deepfakeApp/CViT-main/model",
+        "./deepfakeApp/CViT-main/helpers"
+    ]
+}
